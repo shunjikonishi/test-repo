@@ -1,4 +1,7 @@
 {
+  "editable": [
+    "answer.md"
+  ],
   "readme": {
     "en": "readme.md",
     "ja": "readme_ja.md"
