@@ -2,6 +2,23 @@
   "editable": [
     "answer.md"
   ],
+  tags: [
+    "a", 
+    "b",
+    "with space",
+    "with,comma",
+    "c",
+    "abcdefghijklmnopqrstuvwxyz123456"
+    "abcdefghijklmnopqrstuvwxyz1234567",
+    "d",
+    "eee",
+    "fff",
+    "ggg",
+    "888",
+    "999"
+    "000",
+    "No11"
+  ],
   "readme": {
     "en": "README.md",
     "ja": "README_ja.md"
