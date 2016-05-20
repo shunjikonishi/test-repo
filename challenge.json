@@ -1,12 +1,12 @@
 {
   "editable": [
     "answer.md",
+    "readonly1.md",
     "editable1.md"
   ],
   "tags": [
     "a", 
     "b",
-    "hoge",
     "with space",
     "with,comma",
     "c",
