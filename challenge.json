@@ -1,6 +1,7 @@
 {
   "editable": [
     "answer.md",
+    "readonly1",
     "editable1.md"
   ],
   "tags": [
