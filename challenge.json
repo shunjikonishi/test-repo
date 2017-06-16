@@ -21,6 +21,7 @@
     "000",
     "No11"
   ],
+  "cli": ["nodejs", "java", "ruby"],
   "readme": {
     "en": "README.md",
     "ja": "README_ja.md"
